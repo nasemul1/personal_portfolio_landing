@@ -8,7 +8,7 @@ export default {
     extend: {
       fontFamily: {
         montserrat: ['Montserrat', 'sans-serif'],
-        qwitcher: ['Qwitcher Grypen', 'cursive'],
+        satisfy: ['Satisfy', 'cursive'],
       },
     },
   },
