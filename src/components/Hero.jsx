@@ -1,5 +1,5 @@
 import React from 'react'
-import model from '../assets/model.png'
+import model from '../assets/model.webp'
 import 'boxicons'
 
 function Hero() {
