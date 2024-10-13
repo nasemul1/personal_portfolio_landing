@@ -3,7 +3,7 @@ import React from 'react'
 function Navbar() {
   return (
     <>
-        <nav className="col-start-2 col-span-10 flex justify-between items-center p-4 bg-white text-[21px]">
+        <nav className="col-start-2 col-span-10 flex justify-between items-center px-4 py-10 bg-white text-[21px]">
             <div className="flex items-center gap-x-2">
                 <div className='bg-[#FD6F00] w-[40px] h-[40px] rounded-full flex justify-center items-center'>
                     <p className='font-satisfy font-bold text-[28px] text-white'>mu</p>
