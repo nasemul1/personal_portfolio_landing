@@ -5,7 +5,7 @@ import p3 from '../assets/2.png'
 
 function Project() {
   return (
-    <div className='my-20 col-start-2 col-span-10 flex flex-col justify-center'>
+    <div className='my-28 col-start-2 col-span-10 flex flex-col justify-center'>
         <p className='text-[65px] text-center font-semibold'>My Projects</p>
         <p className='text-center text-[21px] my-5'>Lorem ipsum dolor sit amet consectetur. Mollis erat duis aliquam mauris est risus lectus. Phasellus consequat urna tellus</p>
         <div className='my-5 mx-auto flex gap-x-3'>
