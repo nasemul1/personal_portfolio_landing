@@ -7,7 +7,7 @@ function Testimonial() {
     <div className='col-start-1 col-span-12 w-full flex flex-col justify-center'>
         <p className='text-[65px] font-semibold mx-auto'>Testimonials</p>
         <p className='text-[21px] mx-auto'>Lorem ipsum dolor sit amet consectetur. Tristique amet sed massa nibh lectus netus in. Aliquet donec morbi convallis pretium</p>
-        <div className='my-10 flex justify-center gap-x-12 overflow-hidden'>
+        <div className='my-10 flex justify-center gap-x-12 overflow-hidden dark:text-black'>
             <div className='opacity-35 w-[1087px] min-w-[1087px] h-[344px] bg-[#F8F8F8] rounded-xl flex items-center justify-between gap-x-10 p-10' >
                 <img src={pr1} alt="profile 1" className='w-[235px] h-[235px] rounded-full'/>
                 <div>

@@ -9,11 +9,11 @@ function Project() {
         <p className='text-[65px] text-center font-semibold'>My Projects</p>
         <p className='text-center text-[21px] my-5'>Lorem ipsum dolor sit amet consectetur. Mollis erat duis aliquam mauris est risus lectus. Phasellus consequat urna tellus</p>
         <div className='my-5 mx-auto flex gap-x-3'>
-            <button className='px-4 py-3 border rounded-xl text-semibold text-[24px] '>All</button>
-            <button className='px-4 py-3 border rounded-xl text-semibold text-[24px] '>UI/UX</button>
-            <button className='px-4 py-3 border rounded-xl bg-orange-500 text-white text-semibold text-[24px] '>Web design</button>
-            <button className='px-4 py-3 border rounded-xl text-semibold text-[24px] '>App Design</button>
-            <button className='px-4 py-3 border rounded-xl text-semibold text-[24px] '>Graphics Design</button>
+            <button className='px-4 py-3 border rounded-xl dark:bg-white dark:text-black text-semibold text-[24px] '>All</button>
+            <button className='px-4 py-3 border rounded-xl dark:bg-white dark:text-black text-semibold text-[24px] '>UI/UX</button>
+            <button className='px-4 py-3 border rounded-xl bg-orange-500  text-white text-semibold text-[24px] '>Web design</button>
+            <button className='px-4 py-3 border rounded-xl dark:bg-white dark:text-black text-semibold text-[24px] '>App Design</button>
+            <button className='px-4 py-3 border rounded-xl dark:bg-white dark:text-black text-semibold text-[24px] '>Graphics Design</button>
         </div>
         <div className='mx-auto my-10 flex gap-x-10'>
             <div>
